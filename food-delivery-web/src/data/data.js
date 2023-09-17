@@ -11,7 +11,7 @@ export const data =[
         id:2,
         name:'Bacon Cheeseburger',
         category:'burger',
-        image:
+        image:  
         'https://images.unsplash.com/photo-1520072959219-c595dc870360?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2190&q=80',
         price:'Rs:500',
     },
@@ -66,7 +66,7 @@ export const data =[
     {
         id:9,
         name:'Kale Salad',
-        category:'Salad',
+        category:'salad',
         image:
         'https://images.unsplash.com/photo-1623428187969-5da2dcea5ebf?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2128&q=80',
         price:'Rs:2000',
@@ -74,7 +74,7 @@ export const data =[
     {
         id:10,
         name:'Ceasar Salad',
-        category:'Salad',
+        category:'salad',
         image:
         'https://images.unsplash.com/photo-1607532941433-304659e8198a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2156&q=80',
         price:'Rs:2500',
@@ -82,7 +82,7 @@ export const data =[
     {
         id:11,
         name:'Loaded Salad',
-        category:'Salad',
+        category:'salad',
         image:
         'https://images.unsplash.com/photo-1547496502-affa22d38842?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2177&q=80',
         price:'Rs:500-',
@@ -90,7 +90,7 @@ export const data =[
     {
         id:12,
         name:'Fruit Salad',
-        category:'Salad',
+        category:'salad',
         image:
         'https://images.unsplash.com/photo-1608032643116-54b3f2d1407c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80',
         price:'Rs:1000',
@@ -98,7 +98,7 @@ export const data =[
     {
         id:13,
         name:'Wings',
-        category:'Chicken',
+        category:'chicken',
         image:
         'https://images.unsplash.com/photo-1585703900468-13c7a978ad86?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80',
         price:'Rs:1500',
@@ -106,7 +106,7 @@ export const data =[
     {
         id:14,
         name:'Baked Chicken',
-        category:'Chicken',
+        category:'chicken',
         image:
         'https://images.unsplash.com/photo-1518492104633-130d0cc84637?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2226&q=80',
         price:'Rs:2000',
@@ -114,7 +114,7 @@ export const data =[
     {
         id:15,
         name:'Chicken Tenders',
-        category:'Chicken',
+        category:'chicken',
         image:
         'https://images.unsplash.com/photo-1619019187211-adf2f6119afd?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80',
         price:'Rs:2500',
@@ -122,7 +122,7 @@ export const data =[
     {
         id:16,
         name:'Chicken Kabab',
-        category:'Chicken',
+        category:'chicken',
         image:
         'https://images.unsplash.com/photo-1518492104633-130d0cc84637?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2226&q=80',
         price:'Rs:500',
