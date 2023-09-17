@@ -31,7 +31,7 @@ const HeadlineCards = () => {
                 <p className='px-2 pb-4'>Tasty Treats</p>
                 <button className='border-black bg-white text-black mx-2 absolute button-4 '>Order Now</button>
             </div>
-            <img className='max-h-[1640px] md:max-h-[200px] w-full object-cover rounded-xl' src="https://images.unsplash.com/photo-1624353365286-3f8d62daad51?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80" alt="" />
+            <img className='max-h-[1640px] md:max-h-[200px] w-full object-cover rounded-xl hover:scale-105 duration-300' src="https://images.unsplash.com/photo-1624353365286-3f8d62daad51?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80" alt="" />
         </div>
     </div>
   )
