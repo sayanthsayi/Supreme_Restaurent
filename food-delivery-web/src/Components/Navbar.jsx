@@ -19,7 +19,7 @@ const Navbar=()=> {
                 <AiOutlineMenu size={30}/>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
             </div>
             <h1 className='text-2xl sm:text-3xl lg:text-4xl px-2'>
-                <span className='font-bold'>Taste </span>of Home
+                <span className='font-bold text-orange-500'>Sup</span>reme
             </h1>
             <div className='hidden lg:flex items-center rounded-full p-1 bg-gray-200 text-[14px]'>
                 <p className='bg-black text-white rounded-full p-2'>Delivery</p>
@@ -47,9 +47,9 @@ const Navbar=()=> {
 
         {/* side drawer menu */}
 
-        <div className={nav ? 'fixed top-0 w-[300px] h-screen bg-white z-10 duration-300':'fixed top-0 left-[-100%] w-[300px] h-screen bg-white z-10 duration-300'}>
+        <div className={nav ? 'fixed top-0 w-[300px] h-screen bg-white z-10 duration-300 left-4' :'fixed top-0 left-[-100%] w-[300px] h-screen bg-white z-10 duration-300'}>
             <AiOutlineClose onClick={()=> setNav(!nav)} size={30} className='absolute right-4 top-4 cursor-pointer'/>
-            <h2 className='text-2xl p-4'><span className='font-bold'>Taste </span>of Home</h2>
+            <h2 className='text-2xl p-4'><span className='font-bold text-orange-500'>Sup</span>reme</h2><hr />
 
             <nav>
                 <ul className='flex flex-col p-4 text-gray-800'>
